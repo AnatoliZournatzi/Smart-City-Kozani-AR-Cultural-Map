@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="arxaiologikisilogi" size="7.000000 4.375000" />
+    <ImageTarget name="ipethriotheatro" size="7.000000 4.331250" />
+    <ImageTarget name="LASSANI" size="5.000000 4.453125" />
+    <ImageTarget name="laografiko" size="7.000000 4.994595" />
+    <ImageTarget name="plateianikis" size="7.000000 5.174805" />
+    <ImageTarget name="mouseiosigxrtopikis" size="7.000000 5.226666" />
+    <ImageTarget name="koventariosbibliothiki" size="7.000000 5.512032" />
+    <ImageTarget name="dipethe" size="7.000000 4.410000" />
+    <ImageTarget name="lassanis" size="7.000000 5.250000" />
+  </Tracking>
+</QCARConfig>
