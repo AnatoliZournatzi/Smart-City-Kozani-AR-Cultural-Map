@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.ptc.vuforia.engine": {
-      "version": "file:C:/Users/Natalia/OneDrive/Pictures/Saved Pictures/com.ptc.vuforia.engine",
+      "version": "file:C:/Users/maria/Downloads/com.ptc.vuforia.engine",
       "depth": 0,
       "source": "local",
       "dependencies": {

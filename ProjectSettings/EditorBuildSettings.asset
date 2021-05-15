@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KodonostasioScene.unity
     guid: dfafc2791974e564ba23cfef609390d2
+  - enabled: 1
+    path: Assets/Scenes/agios_nik.unity
+    guid: ecb51c1a7824a7a498b13b717642beb5
   m_configObjects: {}
