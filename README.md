@@ -12,3 +12,5 @@
 ## Πληροφορίες Ομάδας Έργου
   * Μαριάννα Μπόσιακα, <mariannabosiaka@gmail.com>
   * Ανατολή Ζουρνατζή, <anatolizournatzi@gmail.com>
+
+Μπορείτε να βρείτε το **apk** (την εφαρμογή που μπορείτε να κατεβάσετε στα κινήτα σας) στο συγκεκριμένο [link](https://drive.google.com/file/d/1lDOgytzu6FdYEml1sk02A_ONXvVAEQJ4/view?usp=sharing)
