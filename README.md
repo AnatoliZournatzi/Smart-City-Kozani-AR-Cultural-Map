@@ -13,5 +13,5 @@
   * Μαριάννα Μπόσιακα, <mariannabosiaka@gmail.com>
   * Ανατολή Ζουρνατζή, <anatolizournatzi@gmail.com>
 
-Μπορείτε να βρείτε το **apk** (την εφαρμογή που μπορείτε να κατεβάσετε στα κινήτα σας) στο συγκεκριμένο [link](https://drive.google.com/file/d/1lDOgytzu6FdYEml1sk02A_ONXvVAEQJ4/view?usp=sharing)
+Μπορείτε να βρείτε το **apk** (την εφαρμογή που μπορείτε να κατεβάσετε στα κινήτα σας) στο συγκεκριμένο [link](https://drive.google.com/file/d/1fdMxj2Y_ZLClARLEx96aZHfPl6duG2MK/view?usp=sharing)
 Επίσης ο χάρτης πάνω στον οποίο μπορείτε να δοκιμάσετε την εφαρμογή βρίσκεται στο συγκεκριμένο [link](https://drive.google.com/file/d/1TZ6n5WQ5ClhQinZeXWijAHSjJQPzUvYB/view?usp=sharing)
